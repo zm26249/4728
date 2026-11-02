@@ -1,4 +1,4 @@
-function someone(who) { alert(who + 'こんにちは！') }
+function someone(who) { alert(who + 'Hello！') }
 
 
                       
