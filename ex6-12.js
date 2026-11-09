@@ -1,2 +1,2 @@
 function imgchange1(){
-  document.getElementById('iogo').src='./image/bulbon.gif;}
+  document.getElementById('imgchange1').src='./image/bulbon.gif;}
