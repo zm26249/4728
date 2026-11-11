@@ -11,7 +11,9 @@ p.sample2 {border:inset 10px #ff0000;}
 p.sample3 {margin: 30px;padding: 10px;border: medium solid #ff00ff;}
 
 table, th, td {
-    border: 1px dotted black;
-    border-collapse: collapse;
+    border: 2px dotted black !important;
 }
 
+table {
+    border-collapse: collapse;
+}
