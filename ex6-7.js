@@ -4,7 +4,7 @@ function sayhello67() {
   alert('Hello,'+ who67 +'!');
         }
 
-function someone(X) {
+function someone67(X) {
   who67=X;
 }
 
