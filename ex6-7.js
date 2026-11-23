@@ -1,13 +1,11 @@
 var who67 = 'world';
 
-function someone(name) {
-  who67 = name;
+function sayhello67() {
+  alert('Hello,'+ who67 +'!'
 }
 
-function syahello67(){
-  alert('Hello, '+ who67 + '!');
+function someone(X) {
+  who67=X;
 }
-        
-
 
                       
